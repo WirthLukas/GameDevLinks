@@ -3,6 +3,8 @@
 ## Other link collections
 
 * [by aloisdaniel](https://github.com/aloisdeniel/awesome-monogame)
+* [by kavex](https://github.com/Kavex/GameDev-Resources)
+* [by UnterrainerInformatik](https://github.com/UnterrainerInformatik/GameDevelopmentLinks)
 
 ## Entity-Component-Systems / Composite Pattern
 
@@ -16,3 +18,20 @@
 * [wikibooks](https://en.wikibooks.org/wiki/Game_Creation_with_XNA)
 * [rbwhitaker's](http://rbwhitaker.wikidot.com/xna-tutorials)
 * [gameprogrammingadventure](http://gameprogrammingadventures.org/)
+* [gamefromscratch Tutorial](https://www.gamefromscratch.com/page/MonoGame-Tutorial-Series.aspx)
+
+### Monogame Forum
+
+* [Zooming game window](http://community.monogame.net/t/solved-scaling-zooming-game-window/7824/8)
+* [unable to load free image issue](http://community.monogame.net/t/monogame-noob-unable-to-load-freeimage/6255)
+* [parallax scrolling](http://community.monogame.net/t/solved-parallax-scrolling/10960)
+
+### Monogame.Extended
+
+* [Zooming with TiledMap](http://community.monogame.net/t/monogame-tiled-zoom-in-cause-warped-tiles-and-wierd-graphics/9730/11)
+
+## Pathfinding
+
+* [Pathfinding Library](https://github.com/juhgiyo/EpPathFinding.cs)
+* [SharpNav](https://github.com/Robmaister/SharpNav)
+* [A-Star introduction](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
