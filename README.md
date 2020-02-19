@@ -35,7 +35,7 @@
 * [Zooming game window](http://community.monogame.net/t/solved-scaling-zooming-game-window/7824/8)
 * [unable to load free image issue](http://community.monogame.net/t/monogame-noob-unable-to-load-freeimage/6255)
 * [parallax scrolling](http://community.monogame.net/t/solved-parallax-scrolling/10960)
-* [How dous the spritebatch work](https://gamedev.stackexchange.com/questions/21220/how-exactly-does-xnas-spritebatch-work)
+* [How does the spritebatch work](https://gamedev.stackexchange.com/questions/21220/how-exactly-does-xnas-spritebatch-work)
 
 ### Monogame.Extended
 
