@@ -9,12 +9,15 @@
 ## Game Programming patterns
 
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
-* [Finite State Machines](http://gamedevelopertips.com/finite-state-machine-game-developers/)
 
 ### Entity-Component-Systems / Composite Pattern
 
 * [Composite Pattern with java implementation](https://stackoverflow.com/questions/4941953/the-composite-pattern-entity-system-and-traditional-oop)
 * [Introduction to Entity-Component-Systems](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/)
+
+### State Machines
+
+* [Finite State Machines](http://gamedevelopertips.com/finite-state-machine-game-developers/)
 
 ## Monogame / XNA Tutorials
 
