@@ -41,6 +41,11 @@
 
 * [Zooming with TiledMap](http://community.monogame.net/t/monogame-tiled-zoom-in-cause-warped-tiles-and-wierd-graphics/9730/11)
 
+### Monogame Project with .Net Core
+
+* [for .Net Core 3.x](https://www.reddit.com/r/monogame/comments/eej4sp/tutorial_dotnet_core_30_31_with_monogame/)
+* [With dotnet templates](https://www.reddit.com/r/monogame/comments/8xugo5/dotnet_core_monogame/)
+
 ## Pathfinding
 
 * [Pathfinding Library](https://github.com/juhgiyo/EpPathFinding.cs)
